@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather_app_rails
 
 ## Overview
@@ -70,29 +69,3 @@ If you'd like to contribute to the project, please follow these guidelines:
 ## Contact
 
 For any inquiries, please contact [Atul Dwivedi](mailto:atultechd@gmail.com).
-=======
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> fcef821 (added weather_app  successfully)
